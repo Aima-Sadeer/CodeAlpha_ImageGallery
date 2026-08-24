@@ -51,35 +51,34 @@ CodeAlpha_ImageGallery/
 4. Explore the Image Gallery and its interactive features.
 
 ## Project Views
-## Project Views
 
 ### Gallery
 
-![Gallery](./ProjectViews/gallery.jpg)
+![Gallery](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/gallery.jpg)
 
 ### Animal
 
-![Animal](./ProjectViews/Animal.jpg)
+![Animal](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/Animal.jpg)
 
 ### Architecture
 
-![Architecture](./ProjectViews/Architecture.jpg)
+![Architecture](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/Architecture.jpg)
 
 ### Nature
 
-![Nature](./ProjectViews/Nature.jpg)
+![Nature](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/Nature.jpg)
 
 ### Buttons
 
-![Buttons](./ProjectViews/Buttons.jpg)
+![Buttons](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/Buttons.jpg)
 
 ### Travel
 
-![Travel](./ProjectViews/Travel.jpg)
+![Travel](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/Travel.jpg)
 
 ### Zoom
 
-![Zoom](./ProjectViews/Zoom.jpg)
+![Zoom](https://github.com/Aima-Sadeer/CodeAlpha_ImageGallery/raw/main/Projectviews/Zoom.jpg)
 
 ## Internship
 

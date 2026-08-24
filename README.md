@@ -51,34 +51,35 @@ CodeAlpha_ImageGallery/
 4. Explore the Image Gallery and its interactive features.
 
 ## Project Views
+## Project Views
 
 ### Gallery
 
-![Gallery](ProjectViews/gallery.jpg)
+![Gallery](./ProjectViews/gallery.jpg)
 
 ### Animal
 
-![Animal](ProjectViews/Animal.jpg)
+![Animal](./ProjectViews/Animal.jpg)
 
 ### Architecture
 
-![Architecture](ProjectViews/Architecture.jpg)
+![Architecture](./ProjectViews/Architecture.jpg)
 
 ### Nature
 
-![Nature](ProjectViews/Nature.jpg)
+![Nature](./ProjectViews/Nature.jpg)
 
 ### Buttons
 
-![Buttons](ProjectViews/Buttons.jpg)
+![Buttons](./ProjectViews/Buttons.jpg)
 
 ### Travel
 
-![Travel](ProjectViews/Travel.jpg)
+![Travel](./ProjectViews/Travel.jpg)
 
 ### Zoom
 
-![Zoom](ProjectViews/Zoom.jpg)
+![Zoom](./ProjectViews/Zoom.jpg)
 
 ## Internship
 
